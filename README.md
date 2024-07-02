@@ -46,6 +46,8 @@ The analysis is structured as follows:
 - Pie charts to show the distribution of restaurants by country.
 - Bar plots to show rating distributions.
 - Count plots for categorical features.
+
+  
 **Key Observations**
 - Most Zomato records are from India, followed by the USA and the UK.
 - Ratings between 4.5 to 4.9 are considered excellent.
