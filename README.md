@@ -4,8 +4,8 @@ The purpose of this project is to perform an exploratory data analysis (EDA) on 
 The analysis involves cleaning the data, handling missing values, and generating visualizations to understand various trends and patterns.
 
 # Dataset Information
-1. Restaurant ID: Unique identifier for each restaurant.
-2.Restaurant Name: Name of the restaurant.
+-Restaurant ID: Unique identifier for each restaurant.
+-Restaurant Name: Name of the restaurant.
 3.Country Code: Numeric code representing the country.
 4.City: City where the restaurant is located.
 5.Address: Detailed address of the restaurant.
